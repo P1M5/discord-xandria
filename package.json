@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/P1M5/xandria.git"
+    "url": "git+https://github.com/P1M5/discord-xandria.git"
   },
   "keywords": [
     "bot",
@@ -19,12 +19,13 @@
   "author": "P1M5",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/P1M5/xandria/issues"
+    "url": "https://github.com/P1M5/discord-xandria/issues"
   },
-  "homepage": "https://github.com/P1M5/xandria#readme",
+  "homepage": "https://github.com/P1M5/discord-xandria#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.3.0",
     "ytdl-core": "^4.8.2"
-  }
+  },
+  "devDependencies": {}
 }
