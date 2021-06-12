@@ -2,7 +2,7 @@
   "name": "xandria",
   "version": "0.0.1",
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=14.0.0"
   },
   "description": "Xandria is a music bot",
   "main": "bot.js",
@@ -14,12 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/P1M5/discord-xandria.git"
   },
-  "keywords": [
-    "bot",
-    "music",
-    "discord bot",
-    "xandria"
-  ],
+  "keywords": [],
   "author": "P1M5",
   "license": "UNLICENSED",
   "bugs": {
