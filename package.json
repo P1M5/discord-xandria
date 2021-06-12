@@ -7,9 +7,9 @@
   "description": "Xandria is a music bot",
   "main": "bot.js",
   "scripts": {
-        "start": "node bot.js",
-        "dev": "nodemon bot.js"
-      },
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/P1M5/discord-xandria.git"
@@ -28,7 +28,9 @@
   "homepage": "https://github.com/P1M5/discord-xandria#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
-    "ffmpeg-static": "^4.3.0",
+    "dotenv": "^10.0.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
     "ytdl-core": "^4.8.2"
   },
   "devDependencies": {}

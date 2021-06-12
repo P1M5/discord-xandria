@@ -1,11 +1,8 @@
 # Config
-config.json
+.env
+
 # Node modules
 node_modules/
-# Editors
-.idea/
 
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
+# Editors
+.eslintrc.json
